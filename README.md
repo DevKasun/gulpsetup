@@ -1,2 +1,2 @@
 # gulpsetup
-Testing gulp task runner for minify css and js
+Gulp task runner for scss file compile into css and minify css
